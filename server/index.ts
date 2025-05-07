@@ -3,6 +3,8 @@ import { registerRoutes } from "./routes";
 import { setupVite, serveStatic, log } from "./vite";
 
 const app = express();
+// Enable trust proxy to properly handle X-Forwarded-For headers
+app.set('trust proxy', true);
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 

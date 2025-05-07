@@ -14,6 +14,7 @@ import UserManagement from "@/pages/user-management";
 import AdminManagement from "@/pages/admin-management";
 import Logs from "@/pages/logs";
 import { useAuth } from "./hooks/use-auth";
+import { AuthProvider } from "./context/auth-context";
 
 function Router() {
   const { isAuthenticated, user } = useAuth();
@@ -52,12 +53,20 @@ function Router() {
   );
 }
 
+function AuthenticatedApp() {
+  return (
+    <AuthProvider>
+      <Router />
+    </AuthProvider>
+  );
+}
+
 function App() {
   return (
     <QueryClientProvider client={queryClient}>
       <TooltipProvider>
         <Toaster />
-        <Router />
+        <AuthenticatedApp />
       </TooltipProvider>
     </QueryClientProvider>
   );
