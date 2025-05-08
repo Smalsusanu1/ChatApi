@@ -9,7 +9,8 @@ import UserModel from './models/user.model';
 import MessageModel from './models/message.model';
 import GroupModel from './models/group.model';
 import { logger } from './utils/logger';
-
+import dotenv from 'dotenv';
+dotenv.config();
 export interface IStorage {
   // User operations
   getUser(id: string): Promise<User | null>;

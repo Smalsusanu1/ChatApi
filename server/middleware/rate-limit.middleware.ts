@@ -19,9 +19,9 @@ export const applyRateLimits = (app: Express) => {
   // Default rate limit for all routes
   const defaultLimiter = rateLimit({
     ...baseOptions,
-    windowMs: 15 * 60 * 1000, // 15 minutes
+    windowMs: 1 * 60 * 1000, // 15 minutes
     max: 100, // Limit each IP to 100 requests per windowMs
-    message: 'Too many requests from this IP, please try again after 15 minutes',
+    message: 'Too many requests from this IP, please try again after 1 minutes',
     handler: (req: Request, res: Response, next, options) => {
       logger.warn(`Rate limit exceeded for IP: ${req.ip}`);
       res.status(429).json({
@@ -33,7 +33,7 @@ export const applyRateLimits = (app: Express) => {
   // Strict rate limit for auth routes
   const authLimiter = rateLimit({
     ...baseOptions,
-    windowMs: 60 * 60 * 1000, // 1 hour
+    windowMs: 1 * 60 * 1000, // 1 hour
     max: 10, // Limit each IP to 10 requests per windowMs
     message: 'Too many authentication attempts, please try again after 1 hour',
     handler: (req: Request, res: Response, next, options) => {
@@ -47,9 +47,9 @@ export const applyRateLimits = (app: Express) => {
   // Moderate rate limit for API routes
   const apiLimiter = rateLimit({
     ...baseOptions,
-    windowMs: 15 * 60 * 1000, // 15 minutes
+    windowMs: 1 * 60 * 1000, // 15 minutes
     max: 30, // Limit each IP to 30 requests per windowMs
-    message: 'Too many API requests, please try again after 15 minutes',
+    message: 'Too many API requests, please try again after 1 minutes',
     handler: (req: Request, res: Response, next, options) => {
       logger.warn(`API rate limit exceeded for IP: ${req.ip}`);
       res.status(429).json({

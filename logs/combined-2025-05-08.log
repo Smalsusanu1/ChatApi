@@ -1,0 +1,206 @@
+2025-05-08 10:12:30:1230 info: Rate limiting middleware applied
+2025-05-08 10:12:30:1230 info: Swagger documentation setup complete
+2025-05-08 10:12:30:1230 info: WebSocket server initialized
+2025-05-08 10:12:43:1243 info: Rate limiting middleware applied
+2025-05-08 10:12:43:1243 info: Swagger documentation setup complete
+2025-05-08 10:12:43:1243 info: WebSocket server initialized
+2025-05-08 10:12:43:1243 info: Connected to MongoDB
+2025-05-08 10:12:43:1243 info: Database connected successfully
+2025-05-08 10:14:06:146 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:14:06:146 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:14:06:146 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:14:06:146 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:14:06:146 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:14:06:146 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:14:43:1443 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:14:43:1443 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:15:28:1528 info: Rate limiting middleware applied
+2025-05-08 10:15:28:1528 info: Swagger documentation setup complete
+2025-05-08 10:15:28:1528 info: WebSocket server initialized
+2025-05-08 10:15:28:1528 info: Connected to MongoDB
+2025-05-08 10:15:28:1528 info: Database connected successfully
+2025-05-08 10:15:32:1532 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:15:32:1532 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:15:32:1532 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:15:32:1532 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:15:32:1532 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:15:32:1532 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:15:33:1533 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:05:165 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:05:165 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:06:166 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:06:166 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:31:1631 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:31:1631 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:40:1640 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:40:1640 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:40:1640 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:40:1640 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:40:1640 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:40:1640 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:40:1640 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:40:1640 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:40:1640 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:40:1640 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:40:1640 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:40:1640 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:40:1640 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:40:1640 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:40:1640 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:40:1640 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:40:1640 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:40:1640 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:40:1640 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:40:1640 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:53:1653 info: Rate limiting middleware applied
+2025-05-08 10:16:53:1653 info: Swagger documentation setup complete
+2025-05-08 10:16:53:1653 info: WebSocket server initialized
+2025-05-08 10:16:53:1653 info: Connected to MongoDB
+2025-05-08 10:16:53:1653 info: Database connected successfully
+2025-05-08 10:16:57:1657 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:57:1657 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:57:1657 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:57:1657 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:57:1657 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:16:57:1657 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:17:37:1737 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:17:37:1737 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:17:39:1739 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:17:39:1739 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:20:59:2059 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:20:59:2059 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:20:59:2059 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:20:59:2059 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:20:59:2059 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:20:59:2059 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:20:59:2059 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:20:59:2059 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:20:59:2059 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:20:59:2059 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:20:59:2059 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:20:59:2059 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:20:59:2059 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:20:59:2059 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:20:59:2059 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:21:08:218 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:21:09:219 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:21:11:2111 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:21:11:2111 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:22:45:2245 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:22:45:2245 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:22:45:2245 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:22:45:2245 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:22:45:2245 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:22:45:2245 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:22:45:2245 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:22:45:2245 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:22:45:2245 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:22:45:2245 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:22:45:2245 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:22:45:2245 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:22:45:2245 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:22:45:2245 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:22:45:2245 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:22:45:2245 warn: Rate limit exceeded for IP: ::1
+2025-05-08 10:24:11:2411 info: Swagger documentation setup complete
+2025-05-08 10:24:11:2411 info: WebSocket server initialized
+2025-05-08 10:24:11:2411 info: Connected to MongoDB
+2025-05-08 10:24:11:2411 info: Database connected successfully
+2025-05-08 10:24:48:2448 info: Verification email sent to anubhav@smalsus.com
+2025-05-08 10:25:24:2524 info: Welcome email sent to anubhav@smalsus.com
+2025-05-08 10:25:52:2552 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:25:52:2552 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:25:54:2554 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:25:54:2554 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:25:54:2554 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:25:54:2554 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:25:57:2557 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:25:57:2557 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:26:03:263 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:26:03:263 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:26:06:266 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:26:06:266 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:26:24:2624 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:26:24:2624 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:26:24:2624 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:26:24:2624 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:28:31:2831 error: Auth middleware error: jwt malformed
+2025-05-08 10:29:00:290 error: Auth middleware error: jwt malformed
+2025-05-08 10:29:04:294 error: Auth middleware error: jwt malformed
+2025-05-08 10:29:05:295 error: Auth middleware error: jwt malformed
+2025-05-08 10:29:05:295 error: Auth middleware error: jwt malformed
+2025-05-08 10:29:05:295 error: Auth middleware error: jwt malformed
+2025-05-08 10:29:23:2923 error: Auth middleware error: jwt malformed
+2025-05-08 10:29:27:2927 error: Auth middleware error: jwt malformed
+2025-05-08 10:30:49:3049 error: Auth middleware error: jwt malformed
+2025-05-08 10:31:13:3113 error: Auth middleware error: jwt malformed
+2025-05-08 10:31:34:3134 error: Auth middleware error: jwt malformed
+2025-05-08 10:31:55:3155 error: Auth middleware error: jwt malformed
+2025-05-08 10:34:26:3426 error: Error getting user: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:34:26:3426 error: Error getting user profile: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:34:35:3435 error: Error getting user: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:34:35:3435 error: Error getting user profile: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:34:38:3438 error: Error getting user: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:34:38:3438 error: Error getting user profile: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:48:25:4825 error: Error getting user: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:48:25:4825 error: Error getting user profile: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:48:34:4834 error: Error getting user: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:48:34:4834 error: Error getting user profile: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:48:51:4851 error: Error getting user: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:48:51:4851 error: Error getting user profile: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:50:14:5014 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:50:14:5014 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:50:17:5017 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:50:17:5017 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:50:17:5017 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:50:17:5017 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:50:18:5018 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:50:18:5018 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:50:20:5020 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:50:20:5020 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:50:20:5020 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:50:20:5020 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:50:42:5042 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:50:42:5042 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:50:43:5043 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:50:43:5043 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:50:43:5043 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:50:43:5043 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:50:46:5046 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:50:46:5046 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:50:46:5046 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:50:46:5046 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:50:49:5049 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:50:49:5049 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:51:00:510 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:51:00:510 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:51:00:510 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:51:00:510 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:51:00:510 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:51:00:510 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:51:01:511 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:51:01:511 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:51:02:512 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:51:02:512 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:51:03:513 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:51:03:513 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:51:03:513 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:51:03:513 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:51:03:513 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:51:03:513 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:51:04:514 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:51:04:514 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:51:06:516 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:51:06:516 info: WebSocket client connected: 681c39156a9f3df2685a6dbe (santoshs)
+2025-05-08 10:51:52:5152 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:51:52:5152 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:51:54:5154 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:51:54:5154 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:51:54:5154 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:51:54:5154 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:51:54:5154 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:51:54:5154 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:51:54:5154 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:51:54:5154 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:51:54:5154 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe
+2025-05-08 10:51:54:5154 info: WebSocket client disconnected: 681c39156a9f3df2685a6dbe

@@ -1,0 +1,24 @@
+2025-05-08 10:28:31:2831 error: Auth middleware error: jwt malformed
+2025-05-08 10:29:00:290 error: Auth middleware error: jwt malformed
+2025-05-08 10:29:04:294 error: Auth middleware error: jwt malformed
+2025-05-08 10:29:05:295 error: Auth middleware error: jwt malformed
+2025-05-08 10:29:05:295 error: Auth middleware error: jwt malformed
+2025-05-08 10:29:05:295 error: Auth middleware error: jwt malformed
+2025-05-08 10:29:23:2923 error: Auth middleware error: jwt malformed
+2025-05-08 10:29:27:2927 error: Auth middleware error: jwt malformed
+2025-05-08 10:30:49:3049 error: Auth middleware error: jwt malformed
+2025-05-08 10:31:13:3113 error: Auth middleware error: jwt malformed
+2025-05-08 10:31:34:3134 error: Auth middleware error: jwt malformed
+2025-05-08 10:31:55:3155 error: Auth middleware error: jwt malformed
+2025-05-08 10:34:26:3426 error: Error getting user: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:34:26:3426 error: Error getting user profile: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:34:35:3435 error: Error getting user: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:34:35:3435 error: Error getting user profile: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:34:38:3438 error: Error getting user: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:34:38:3438 error: Error getting user profile: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:48:25:4825 error: Error getting user: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:48:25:4825 error: Error getting user profile: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:48:34:4834 error: Error getting user: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:48:34:4834 error: Error getting user profile: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:48:51:4851 error: Error getting user: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"
+2025-05-08 10:48:51:4851 error: Error getting user profile: Cast to ObjectId failed for value "profile" (type string) at path "_id" for model "User"

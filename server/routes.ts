@@ -28,7 +28,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
   const httpServer = createServer(app);
   
   // Apply rate limits
-  applyRateLimits(app);
+  // applyRateLimits(app);
   
   // Setup Swagger API documentation
   setupSwagger(app);
